@@ -55,6 +55,3 @@ statistical-analysis-r/
 
 R · statistical hypothesis testing · non-parametric methods · data visualization
 
-## Report
-
-The full report, including detailed methodology, results tables, and discussion, is available in the `report/` folder.
