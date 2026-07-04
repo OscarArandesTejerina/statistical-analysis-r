@@ -46,9 +46,9 @@ Both sources are cited in full in the report.
 ```
 statistical-analysis-r/
 ├── README.md
-├── report/          # Full write-up (PDF) with methods, results, and discussion
-├── src/             # R scripts for each research question
-└── figures/         # Generated plots
+├── statistical-analysis-report.pdf    # Full write-up (PDF) with methods, results, and discussion
+├── statistical-analysis.R             # R script for each research question
+
 ```
 
 ## Tech
